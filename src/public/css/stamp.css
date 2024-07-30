@@ -1,0 +1,107 @@
+.body {
+  margin: 0 auto;
+  max-width: 1230px;
+}
+
+.header {
+  height: 100px;
+}
+
+
+.header__inner {
+  display: flex;
+  margin: 0 auto;
+  padding: 10px 50px;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.header__logo {
+  color: #000;
+  font-size: 30px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.body {
+  margin: 0 auto;
+  max-width: 1230px;
+}
+
+.header {
+  height: 100px;
+}
+
+.header__inner {
+  display: flex;
+  margin: 0 auto;
+  padding: 10px 50px;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.header__logo {
+  color: #000;
+  font-size: 30px;
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.footer {
+  font-size: 20px;
+  text-align: center;
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.top-header__nav {
+  list-style: none;
+  font-size: 20px;
+}
+
+
+.top-header__nav-list {
+  display: inline-block;
+  justify-content: left;
+  padding: 0 30px;
+}
+
+
+.form {
+  margin: 0 auto;
+}
+
+
+.stamp-form {
+  margin: 0 auto;
+  height: 750px;
+  background-color: #f2f2f2;
+}
+
+.stamp-form__inputs {
+  padding: 10%;
+}
+
+.stamp-form__attend,
+.stamp-form__break {
+  display: flex;
+  justify-content: center;
+}
+
+.stamp-form__input {
+  padding: 20px;
+}
+
+.stamp-form__btn {
+  width: 500px;
+  height: 200px;
+  font-size: 20px;
+  border: none;
+  background-color: white;
+}
